@@ -1,5 +1,4 @@
 {
-  "homepage": "https://Ammaradnan12.github.io/portfolio",
   "name": "ammar-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -19,8 +18,6 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "yarn start build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "code-clean": "npx prettier --write .",
     "build": "react-scripts build",
