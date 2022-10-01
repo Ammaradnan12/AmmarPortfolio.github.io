@@ -22,6 +22,7 @@
     "predeploy": "yarn start build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
+    "code-clean": "npx prettier --write .",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
