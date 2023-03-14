@@ -14,19 +14,17 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold ">
-            <p>
-              hiiii hiiiiiiiiiii hiiiiiiiiiiii hiiiiiiiiii hhhhhhh
-              hhhhhhhhhhhhhh hhhhhhhhhhhhhhhh hhhhhhhhhhh{" "}
-            </p>
+            <p>Hi. I'm Ammar, nice to meet you. Please take a look around!</p>
           </div>
           <div>
-            <p>
-              hiiii hiiiiiiiiiii hiiiiiiiiiiii hiiiiiiiiii hiiii hiiiiiiiiiii
-              hiiiiiiiiiiii hiiiiiiiiii hhhhhhh hhhhhhhhhhhhhh hhhhhhhhhhhhhhhh
-              hhhhhhhhhhh hiiii hiiiiiiiiiii hiiiiiiiiiiii hiiiiiiiiii hhhhhhh
-              hhhhhhhhhhhhhh hhhhhhhhhhhhhhhh hhhhhhhhhhh hiiii hiiiiiiiiiii
-              hiiiiiiiiiiii hiiiiiiiiii hhhhhhh hhhhhhhhhhhhhh hhhhhhhhhhhhhhhh
-              hhhhhhhhhhh
+            <p className="text-justify">
+              As a computer science professional with experience in software
+              development, strong technical skills, and a proven ability to work
+              well in teams and solve complex problems, I am confident in my
+              ability to take on new challenges. My technical skills include
+              HTML, React JS, Tailwind CSS, JavaScript, SQL, C++, Python, and
+              Node-Red. If you're looking for a talented and driven computer
+              science professional, please don't hesitate to contact me.
             </p>
           </div>
         </div>
